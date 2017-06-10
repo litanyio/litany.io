@@ -1,0 +1,225 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+
+body {
+  line-height: 1; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+body {
+  font-size: 16px;
+  font-family: sans-serif;
+  margin: 0; }
+
+h1 {
+  margin-top: 0;
+  font-size: 40px;
+  font-weight: 100;
+  line-height: 48px;
+  margin-bottom: 24px; }
+
+h2 {
+  font-weight: 100;
+  font-size: 32px;
+  margin-bottom: 24px;
+  line-height: 48px; }
+
+p, li, blockquote, pre {
+  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 24px; }
+
+p {
+  margin-top: 0;
+  margin-bottom: 24px;
+  line-height: 24px; }
+
+a {
+  text-decoration: none;
+  color: #79d1f7; }
+
+ol {
+  padding-left: 1.5em;
+  list-style-type: decimal; }
+
+.logo a.litany {
+  font-family: 'Dosis', sans-serif;
+  font-weight: 100;
+  font-size: 36px; }
+.logo a.litany i {
+  transition: text-shadow 1s; }
+.logo a.litany:hover span {
+  display: inline;
+  opacity: .6;
+  transition: opacity 2s; }
+.logo a.litany:hover i {
+  text-shadow: 0 0 6px rgba(101, 255, 227, 0.4); }
+
+body {
+  background: #fff;
+  text-shadow: 1px 1px 0px #fff; }
+  body.sticky {
+    padding-top: 144px; }
+    body.sticky header {
+      position: fixed;
+      top: 0; }
+    body.sticky .hero {
+      opacity: 0; }
+    body.sticky .hero {
+      height: calc(100vh - 144px); }
+      body.sticky .hero #change {
+        display: none; }
+      body.sticky .hero #novelnode {
+        display: block; }
+
+header {
+  width: 98%;
+  padding-left: 2%;
+  height: 48px;
+  border-bottom: 1px solid #79d1f7;
+  transition: opacity 1s; }
+  header h1 {
+    font-family: 'Dosis', sans-serif;
+    font-weight: 100;
+    font-size: 48px;
+    font-style: italic;
+    color: #000;
+    width: 10%;
+    text-shadow: 1px 1px 0px #fff;
+    float: left; }
+  header ul {
+    float: right;
+    margin-top: 24px; }
+    header ul li {
+      text-shadow: 1px 1px 0px #fff;
+      height: 24px;
+      display: inline-block;
+      padding-left: 20px;
+      padding-right: 20px; }
+      header ul li.active a {
+        border-bottom: 3px solid #79d1f7; }
+
+.hero {
+  height: calc(100vh - 72px);
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity .2s; }
+  .hero p {
+    font-family: 'Inconsolata';
+    font-weight: bold;
+    font-size: 48px; }
+  .hero span {
+    margin-top: 48px;
+    display: block;
+    font-weight: lighter; }
+  .hero #novelnode {
+    display: none; }
+    .hero #novelnode span.cta-survey {
+      font-family: 'Inconsolata';
+      font-size: 24px; }
+    .hero #novelnode a {
+      font-family: 'Inconsolata';
+      font-weight: bold;
+      box-shadow: inset 0 -1px 0 0 #fff, inset 0 -3px 0 0 #79d1f7;
+      font-size: 24px;
+      background: #fff;
+      text-shadow: 1px  1px 0 #fff,  -1px -1px 0 #fff, -1px  1px 0 #fff, 1px  -1px 0 #fff;
+      transition: all 1s; }
+      .hero #novelnode a:hover {
+        color: #000;
+        text-transform: uppercase;
+        box-shadow: inset 0 -1px 0 0 #fff, inset 0 -3px 0 0 #000; }
+
+.content {
+  opacity: 0;
+  margin-top: 100vh;
+  margin: auto;
+  width: 80%;
+  height: 100vh;
+  font-family: 'Roboto';
+  font-weight: 100; }
+
+.contact {
+  text-align: center;
+  font-family: 'Inconsolata';
+  margin-bottom: 50vh;
+  font-size: 48px; }
+
+.cipher-bg {
+  z-index: -999;
+  display: inline-flex;
+  margin-bottom: 24px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 98%;
+  padding-left: 2%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: 100vh; }
+  .cipher-bg li {
+    display: flex;
+    width: 4.16667%;
+    padding-left: 0.69444%;
+    padding-right: 0.69444%;
+    position: relative;
+    text-align: center;
+    transition: all 1s;
+    margin-bottom: 0;
+    height: 24px;
+    color: transparent;
+    text-shadow: 1px 1px 4px #c8e7f5;
+    opacity: .5; }
+    .cipher-bg li.plain {
+      opacity: .4;
+      color: transparent;
+      text-shadow: 1px 1px 2px #79d1f7; }
+    .cipher-bg li span {
+      font-family: 'Inconsolata';
+      font-size: 16pt;
+      display: block;
+      position: absolute;
+      top: 0;
+      transition: all 2s; }
+
+/*# sourceMappingURL=spans.css.map */

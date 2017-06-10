@@ -1,0 +1,14 @@
+.logo a.litany {
+  font-family: 'Dosis', sans-serif;
+  font-weight: 100;
+  font-size: 36px; }
+.logo a.litany i {
+  transition: text-shadow 1s; }
+.logo a.litany:hover span {
+  display: inline;
+  opacity: .6;
+  transition: opacity 2s; }
+.logo a.litany:hover i {
+  text-shadow: 0 0 6px rgba(101, 255, 227, 0.4); }
+
+/*# sourceMappingURL=branding.css.map */
