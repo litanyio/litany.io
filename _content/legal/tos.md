@@ -66,7 +66,7 @@ Litany may terminate your access to all or any part of our Services at any time,
 
 ## Disclaimer of Warranties.
 
-Our Services are provided "as is." Litany and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither Litany nor its suppliers and licensors, makes any warranty that our Services will be error free or that access thereto will be continuous or uninterrupted. If you're actually reading this, [here's a cat GIF](#). You understand that you download from, or otherwise obtain content or services through, our Services at your own discretion and risk.
+Our Services are provided "as is." Litany and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither Litany nor its suppliers and licensors, makes any warranty that our Services will be error free or that access thereto will be continuous or uninterrupted. If you're actually reading this, [here's a cat GIF](/assets/i/cat.gif). You understand that you download from, or otherwise obtain content or services through, our Services at your own discretion and risk.
 
 ## Jurisdiction and Applicable Law.
 
