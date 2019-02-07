@@ -18,16 +18,6 @@ Like most website operators, Litany collects non-personally-identifying informat
 
 Litany also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users posting material to Litany services. Litany only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog where the comment was left.
 
-### Third-party Trackers
-
-We use third-party tracking code, such as a tool called "[Google Analytics](http://www.google.com/analytics/)" to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve our website. Google Analytics collects only the IP address assigned to your browser on the date of your visit, instead of your name or other identifying information. We do not combine the information collected through the use of Google Analytics with any personally identifiable information. Although Google Analytics plants a "cookie" on your web browser to identify you as a unique user, the cookie cannot be used by anyone but Google. Google's ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/terms/us.html) and the [Google Privacy Policy](http://www.google.com/policies/privacy/).
-
-This website also uses Facebook's Conversion Tracking Pixel service, which allows us to market content to users who have visited our site.  Please refer to [Facebook's Privacy Policy](https://www.facebook.com/about/privacy/) for more information.
-
-You can prevent third-party tracking code from recognizing your return visits to this site by disabling cookies on your browser or installing ad-blockers or privacy guards. Please refer to your browser settings for additional information on disabling cookies.  Consider installing [Privacy Badger](https://www.eff.org/privacybadger), a free browser extension provided by the [Electronic Frontier Foundation](https://www.eff.org).
-
-Please not that Litany and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement in regards to third-party privacy solutions.
-
 ## Gathering of Personally-Identifying Information
 
 Certain visitors to Litany's websites choose to interact with Litany in ways that require Litany to gather personally-identifying information. The amount and type of information that Litany gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at NovelNode.com to provide a username and email address. Those who engage in transactions with Litany are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Litany collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Litany. Litany does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
@@ -47,14 +37,6 @@ A cookie is a string of information that a website stores on a visitor's compute
 ## Business Transfers
 
 If Litany, or substantially all of its assets, were acquired, or in the unlikely event that Litany goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Litany may continue to use your personal information as set forth in this policy.
-
-## Ads
-
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Litany and does not cover the use of cookies by any advertisers.
-
-## Comments
-
-Comments and other content submitted to our Akismet anti-spam service are not saved on our servers unless they were marked as false positives or missed spam, in which case we store them long enough to use them to improve the service to avoid future false positives and missed spam.
 
 ## Privacy Policy Changes
 
