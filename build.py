@@ -80,5 +80,5 @@ for f, p in _site.items():
 		fp.write(p)
 	
 call(['git', 'add', '-A'])
-call(['git', 'commit', '-m', 'Autobuild from {}'.format(_head, _sha)])
+call(['git', 'commit', '-m', 'Autobuild from {}:{}'.format(_head, _sha)])
 call(['git', 'checkout', _head])
