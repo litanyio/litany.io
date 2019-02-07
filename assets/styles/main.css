@@ -216,9 +216,8 @@ header {
     text-shadow: 1px 1px 4px #c8e7f5;
     opacity: .5; }
     .cipher-bg li.plain {
-      opacity: .4;
-      color: transparent;
-      text-shadow: 1px 1px 2px #79d1f7; }
+      opacity: 1; 
+      color: #79d1f7;}
     .cipher-bg li span {
       font-family: 'Inconsolata';
       font-size: 16pt;
