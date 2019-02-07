@@ -84,11 +84,11 @@ ol {
   font-weight: 100;
   font-size: 36px; }
 .logo a.litany i {
-  transition: text-shadow 1s; }
+  }
 .logo a.litany:hover span {
   display: inline;
   opacity: .6;
-  transition: opacity 2s; }
+   }
 .logo a.litany:hover i {
   text-shadow: 0 0 6px rgba(101, 255, 227, 0.4); }
 
@@ -114,7 +114,7 @@ header {
   padding-left: 2%;
   height: 48px;
   border-bottom: 1px solid rgba(121, 209, 247, 0.5);
-  transition: opacity 1s; }
+  }
   header h1 {
     font-family: 'Dosis', sans-serif;
     font-weight: 100;
@@ -142,7 +142,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: opacity .2s; }
+  }
   .hero p {
     font-family: 'Inconsolata';
     font-weight: bold;
@@ -163,7 +163,7 @@ header {
       font-size: 24px;
       background: #fff;
       text-shadow: 1px  1px 0 #fff,  -1px -1px 0 #fff, -1px  1px 0 #fff, 1px  -1px 0 #fff;
-      transition: all 1s; }
+      }
       .hero #novelnode a:hover {
         color: #000;
         text-transform: uppercase;
@@ -210,7 +210,6 @@ header {
     padding-right: 0.69444%;
     position: relative;
     text-align: center;
-    transition: all 1s;
     margin-bottom: 0;
     height: 24px;
     color: transparent;
@@ -226,7 +225,7 @@ header {
       display: block;
       position: absolute;
       top: 0;
-      transition: all 2s; }
+      }
 
 .content {
   font-family: 'Roboto';
